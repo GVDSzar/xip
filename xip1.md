@@ -1,4 +1,4 @@
-Xar hub_3 proposed features
+## Xar hub_3 proposed features
 
 Quick introduction to the features we want to add in the next upgrade hub_3
 
