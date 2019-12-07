@@ -2,11 +2,11 @@
 
 Quick introduction to the features we want to add in the next upgrade hub_3
 
-- Atomic swaps via Hash Time Locked Contracts
+- [Atomic swaps via Hash Time Locked Contracts](https://github.com/xar-network/xar-network/tree/hub_3_csdt/x/htlc)
 
 https://en.bitcoin.it/wiki/Hash_Time_Locked_Contracts
 
-- Constant Product Market Maker Model for the uniswap module
+- [Constant Product Market Maker Model for the uniswap module](https://github.com/xar-network/xar-network/tree/hub_3_csdt/x/coinswap)
 
 https://github.com/runtimeverification/verified-smart-contracts/blob/master/uniswap/x-y-k.pdf
 
